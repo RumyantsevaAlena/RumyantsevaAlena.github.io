@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(38, 35, 35);
+    background-color: rgb(245, 222, 214);
+    padding: 9px;
+    text-align: center;
+}
+
+nav {
+    margin: 5px;
+}
+
+nav1 a {
+    background-color: silver;
+    margin: 10px;
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+    border-radius: 50px;
+}
+
+nav1 a:hover {
+    background-color: rgb(245, 222, 214);
+}
+
+.firstText {
+    color: rgb(57, 38, 92);
+    text-align: center;
+}
+
+.textImg {
+    float: right;
+    margin-right: 10px;
+}
+
+img hover {
+    background-color: coral;
+}
+
+footer {
+    float:down;
+    margin-right: 100px;
+}
